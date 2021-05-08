@@ -2,7 +2,7 @@ POST localhost:8080/foo
 Content-Type: application/json
 
 {
-  "firstName": "potato",
+  "first_name": "potato",
   "last_name": "white",
   "email": "bravopotato@gmail.com"
 }
